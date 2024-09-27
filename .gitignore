@@ -1,0 +1,5 @@
+venv/
+.env
+Scripts/photos/
+Scripts/scraping_session.session
+Scripts/telegram_data.csv
