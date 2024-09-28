@@ -1,3 +1,9 @@
 telethon
 pandas
 numpy
+nltk
+matplotlib
+seaborn 
+transformers
+sentencepiece
+amseg.amharicSegmenter
