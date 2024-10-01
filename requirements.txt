@@ -9,3 +9,5 @@ sentencepiece
 amseg.amharicSegmenter
 pytesseract
 torch
+shap 
+lime
