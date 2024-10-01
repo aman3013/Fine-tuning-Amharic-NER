@@ -4,3 +4,5 @@ Scripts/photos/
 Scripts/scraping_session.session
 Scripts/telegram_data.csv
 data/
+notebooks/CONLL/
+Scripts/merged_file.conll

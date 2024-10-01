@@ -41,7 +41,7 @@ async def main():
         writer.writerow(['Channel Title', 'Channel Username', 'ID', 'Message', 'Date', 'Media Path'])  # Include channel title in the header
         
         # List of channels to scrape
-        channels = [ '@kuruwear','@emartzonsportswear', '@Etonline_shopping'
+        channels = [ '@kuruwear','@emartzonsportswear'
               # Existing channel
                  # You can add more channels here
             
